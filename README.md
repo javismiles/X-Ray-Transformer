@@ -1,4 +1,4 @@
-# X-Ray-Transformer
+# X-Ray-Transformer Infographic
 Dive into transformers training & inference computations through a single visual. The X-Ray Transformer infographic allows you to make the journey from the beginning to the end of the transformer's computations in both the training and inference phases. Its objective is to achieve a quick and deep understanding of the inner computations of a transformer model through the analysis and exploration of a single visual asset.
 
 ### Find a step by step explanation of the X-Ray Transformer Infographic at this medium article I published:
