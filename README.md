@@ -5,12 +5,12 @@ The transformer arquitecture has produced a revolution in the NLP field and in d
 https://medium.com/@ideami/x-ray-transformer-dive-into-transformers-training-inference-computations-through-a-single-visual-4e8d50667378
 
 ### Download a higher resolution version of the Infographic at:
-https://github.com/javismiles/X-Ray-Transformer/blob/master/xray-transformer-javier-ideami-large-14000px-c.gif?raw=true
-https://github.com/javismiles/X-Ray-Transformer/blob/master/xray-transformer-javier-ideami-large-14000px-c.jpg?raw=true
+https://github.com/javismiles/X-Ray-Transformer/blob/master/xray-transformer-large-14000px-c.gif?raw=true
+https://github.com/javismiles/X-Ray-Transformer/blob/master/xray-transformer-large-14000px-c.jpg?raw=true
 
 ### Even larger resolution versions of the Infographic will be released soon at losslandscape.com
 
-![Alt text](./xray-transformer-javier-ideami-small-2700px-c.gif?raw=true "X-Ray Transformer")
+![Alt text](./xray-transformer-small-2700px-c.gif?raw=true "X-Ray Transformer")
 
 
 
