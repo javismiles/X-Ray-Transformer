@@ -1,5 +1,5 @@
 # X-Ray-Transformer
-The transformer arquitecture has produced a revolution in the NLP field and in deep learning. A multitude of applications are benefiting from the capacity of this models to process sequences in parallel while achieving a deeper understanding of their context through the attention mechanism they implement.
+Dive into transformers training & inference computations through a single visual. The X-Ray Transformer infographic allows you to make the journey from the beginning to the end of the transformer's computations in both the training and inference phases. Its objective is to achieve a quick and deep understanding of the inner computations of a transformer model through the analysis and exploration of a single visual asset.
 
 ### Find a step by step explanation of the X-Ray Transformer Infographic at this medium article I published:
 https://medium.com/@ideami/x-ray-transformer-dive-into-transformers-training-inference-computations-through-a-single-visual-4e8d50667378
