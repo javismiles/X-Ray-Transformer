@@ -10,7 +10,7 @@ https://github.com/javismiles/X-Ray-Transformer/blob/master/images/xray-transfor
 
 ### Even larger resolution versions of the Infographic will be released soon at losslandscape.com
 
-![Alt text](./images/xray-transformer-small-2700px-c.gif?raw=true "X-Ray Transformer")
+![Alt text](./images/xray-transformer-2700px-c.gif?raw=true "X-Ray Transformer")
 
 
 
