@@ -5,8 +5,7 @@ Dive into transformers training & inference computations through a single visua
 https://towardsdatascience.com/x-ray-transformer-dive-into-transformers-training-inference-computations-through-a-single-visual-4e8d50667378
 
 ### Download a higher resolution version of the Infographic at:
-https://github.com/javismiles/X-Ray-Transformer/blob/master/images/xray-transformer-large-14000px-c.gif?raw=true
-https://github.com/javismiles/X-Ray-Transformer/blob/master/images/xray-transformer-large-14000px-c.jpg?raw=true
+https://github.com/javismiles/X-Ray-Transformer/tree/master/images
 
 ### Even larger resolution versions of the Infographic will be released soon at losslandscape.com
 
